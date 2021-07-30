@@ -1,2 +1,2 @@
 # JavaScript
-## JS code from start.
+JS code from start.
